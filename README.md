@@ -1,7 +1,7 @@
 # Feetech STS interface board for M5Stack
 
 ## About
-M5StackからFeetech STSシリーズのシリアルサーボを操作するためのオリジナル基板です．FE-URT-1([秋月リンク](https://akizukidenshi.com/catalog/g/gM-16295/))のUART機能のみを取り出して実装したため，同基板と比較して小型に収まっています．
+M5StackからFeetech STSシリーズのシリアルサーボを操作するためのオリジナル基板です．KiCAD 7で設計しました．FE-URT-1([秋月リンク](https://akizukidenshi.com/catalog/g/gM-16295/))のUART機能のみを取り出して実装したため，同基板と比較して小型に収まっています．
 
 ## Appearance
 **組み立て前**
