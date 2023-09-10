@@ -454,7 +454,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "via_diameter": 0.6,
+        "via_diameter": 0.605,
         "via_drill": 0.3,
         "wire_width": 6
       }
@@ -641,7 +641,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "grove_feetech_sts.dsn",
-      "step": "",
+      "step": "grove_feetech_sts.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
