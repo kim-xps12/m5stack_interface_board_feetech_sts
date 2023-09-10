@@ -3,9 +3,15 @@
 ## About
 M5StackからFeetech STSシリーズのシリアルサーボを操作するためのオリジナル基板です．FE-URT-1([秋月リンク](https://akizukidenshi.com/catalog/g/gM-16295/))のUART機能のみを取り出して実装したため，同基板と比較して小型に収まっています．
 
+## Appearance
+**組み立て前**
+![raw board](images/board_raw.jpg)
+**完成品**
+![assembled board](images/board_assembled.jpg)
 ## Usage
 配線と動作の様子はこちら．
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_5FpvqL4ExI?si=2zxJVe1hsMPIyfzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![YouTube](images/board_raw.jpg)](https://www.youtube.com/watch?v=_5FpvqL4ExI)
+
 
 
 動作確認用にM5Stack向けのサンプルコードをm5stack_uart_feetech_stsのリポジトリ（[リンク
