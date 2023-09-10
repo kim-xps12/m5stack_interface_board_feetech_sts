@@ -10,7 +10,7 @@ M5StackからFeetech STSシリーズのシリアルサーボを操作するた�
 ![assembled board](images/board_assembled.jpg)
 ## Usage
 配線と動作の様子はこちら．
-[![YouTube](images/board_raw.jpg)](https://www.youtube.com/watch?v=_5FpvqL4ExI)
+https://www.youtube.com/watch?v=_5FpvqL4ExI
 
 
 
